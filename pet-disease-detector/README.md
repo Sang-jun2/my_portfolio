@@ -4,8 +4,8 @@
 AI 모델, Backend 서버, Frontend 앱으로 구성된 풀스택 프로젝트입니다.
 
 ## 프로젝트 내용
-프로젝트명 Petmily_Care
-개발기간 2024.10 ~ 2024.12
+|프로젝트명 Petmily_Care|
+|개발기간 2024.10 ~ 2024.12|
 주요기술 python, yolov5, FastAPI, Android Studio, My SQL
 데이터 규모 반려동물 이미지 200,000장
 성과 정확도 91%, 앱 연동 성공
