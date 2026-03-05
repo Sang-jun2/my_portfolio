@@ -32,4 +32,4 @@
 ### 4) 챗봇
 ![기능4](assets/app4.png)
 ## 구현 영상
-![기능4](assets/video.mp4)
+![📽️ 영상 보기](assets/video.mp4)
